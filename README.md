@@ -5,15 +5,6 @@ This project builds a machine learning regression model to predict the popularit
 
 The goal is to understand what makes a song popular and build a robust predictive model with explainability.
 
-📂 Project Structure
-Spotify-Song-Popularity/
-│
-├── Spotify Song Popularity.ipynb
-├── models/
-│   └── best_model.pkl
-├── README.md
-└── requirements.txt
-
 📊 Dataset Description
 
 The dataset contains track-level information, including:
